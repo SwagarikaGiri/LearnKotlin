@@ -1,3 +1,3 @@
 # LearnKotlin #
 
-#### Learn about val, var, when, if else ####
+#### Learn about Main.kt --> val, var, when, if else ####
